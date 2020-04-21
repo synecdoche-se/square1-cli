@@ -9,7 +9,8 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "moderntribe/square1-container": "^2.2"
     },
     "autoload": {
         "psr-4": {
