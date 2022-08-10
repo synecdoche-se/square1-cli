@@ -1,5 +1,5 @@
 {
-    "name": "moderntribe/square1-cli",
+    "name": "synecdoche/square1-cli",
     "type": "library",
     "description": "A framework for registering wp-cli commands in square one",
     "license": "GPL-2.0-only",
